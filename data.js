@@ -39,7 +39,7 @@ var APP_DATA = {
           "yaw": -1.2189807859494604,
           "pitch": 0.03736903524398372,
           "rotation": 0,
-          "target": "2-bed-room"
+          "target": "2-bad-room"
         }
       ],
       "infoHotspots": []
@@ -83,8 +83,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-bed-room",
-      "name": "Bed Room",
+      "id": "2-bad-room",
+      "name": "Bad Room",
       "levels": [
         {
           "tileSize": 256,
@@ -106,22 +106,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.11084760492051693,
-        "pitch": 0.0005745608840719285,
-        "fov": 1.2741280157201467
+        "yaw": -0.05617043956049983,
+        "pitch": -0.0012360005180980238,
+        "fov": 1.2747015035600908
       },
       "linkHotspots": [
         {
-          "yaw": 2.0089771976334063,
-          "pitch": 0.10471068692356056,
-          "rotation": 0,
-          "target": "0-living-room"
-        },
-        {
-          "yaw": 0.8270022004989723,
-          "pitch": 0.04820863893612071,
+          "yaw": 0.867645922565714,
+          "pitch": 0.023185270872854602,
           "rotation": 0,
           "target": "3-bath-room"
+        },
+        {
+          "yaw": 2.0224464041440324,
+          "pitch": 0.11746483905952232,
+          "rotation": 0,
+          "target": "0-living-room"
         }
       ],
       "infoHotspots": []
@@ -159,7 +159,7 @@ var APP_DATA = {
           "yaw": 0.26456440256087177,
           "pitch": 0.1406125593186598,
           "rotation": 0,
-          "target": "2-bed-room"
+          "target": "2-bad-room"
         }
       ],
       "infoHotspots": []
